@@ -17,4 +17,16 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
