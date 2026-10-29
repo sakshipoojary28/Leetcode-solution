@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1678-goal-parser-interpretation) |
 ## Stack
 |  |
 | ------- |
