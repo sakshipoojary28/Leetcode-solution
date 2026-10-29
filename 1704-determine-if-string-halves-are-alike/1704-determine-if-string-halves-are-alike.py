@@ -1,0 +1,7 @@
+class Solution(object):
+    def halvesAreAlike(self, s):
+        vowels = "aeiouAEIOU"
+        n = len(s) // 2
+        a = sum(1 for ch in s[:n] if ch in vowels)
+        b = sum(1 for ch in s[n:] if ch in vowels)
+        return a == b   
