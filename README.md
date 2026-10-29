@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0027-remove-element) |
 | [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1920-build-array-from-permutation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -46,5 +47,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
