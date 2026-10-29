@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0027-remove-element) |
+| [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
