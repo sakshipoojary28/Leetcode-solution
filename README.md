@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
