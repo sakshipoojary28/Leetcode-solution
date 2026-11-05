@@ -18,6 +18,7 @@
 | [1470-shuffle-the-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
