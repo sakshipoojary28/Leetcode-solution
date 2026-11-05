@@ -12,6 +12,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
