@@ -18,6 +18,7 @@
 | [1470-shuffle-the-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
@@ -34,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sakshipoojary28/Leetcode-solution/tree/master/1704-determine-if-string-halves-are-alike) |
